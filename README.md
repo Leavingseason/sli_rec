@@ -1,6 +1,10 @@
 ## Adaptive User Modeling with Long and Short-Term Preference for Personalized Recommendation
 This code provides an implementation of the SLi-Rec network for sequential recommendation in this paper.
 
+## Update
+The code is maintained at:
+https://github.com/microsoft/recommenders/blob/master/reco_utils/recommender/deeprec/models/sequential/sli_rec.py
+
 ## Data Preparation
 ```
 sh data_preparing.sh
